@@ -4,4 +4,4 @@ def action():
     print("Action")
 
 def hue():
-    pass
+    print('hue')
