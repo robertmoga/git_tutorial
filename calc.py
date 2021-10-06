@@ -5,3 +5,6 @@ def action():
 
 def hue():
     print('>>hue')
+
+def multiply(a, b):
+    return a*b
