@@ -5,7 +5,7 @@ import numpy as np
 
 
 def action():
-    print("Action")
+    print("Action 2")
 
 def hue():
     print('>>hue')
